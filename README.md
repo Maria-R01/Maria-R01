@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 👋 Hey Peeps! I'm Maria Ramirez - Tech Explorer and Cool Code Creator! 🚀
 
 ### About Me
-🌮 First-gen Mexican American on a mission to blend sunny vibes with the cool code magic.
+🙋🏽‍♀️ First-gen Mexican American on a mission to blend sunny vibes with the cool code magic.
 
 🚀 Survivor of the App Academy rollercoaster, now thriving in the world of untangling tech puzzles.
 
@@ -32,15 +32,15 @@ Crafting code that's not just functional but seriously impressive.
 ### 🚀 Recent Exploits
 🎓 Earned my battle scars and stripes at San Diego State University.
 
-🚀 Completed the intensive 24-week Software Engineering Bootcamp at App Academy, emerging as a digital symphony maestro.
+🎓 Completed the intensive 24-week Software Engineering Bootcamp at App Academy, emerging as a digital symphony maestro.
 
-🚀 Cooking up software that's basically digital awesomeness.
+👩🏽‍💻 Cooking up software that's basically digital awesomeness.
 
 ### 🎵 The Beat of My Code
 Fun fact: I groove to the rhythm of all music genres with a killer beat. When not in code mode, catch me:
 - 🎮 Leveling up in the gaming world.
 - 🎶 Jamming to tunes because even code needs a banging soundtrack!
-- 👩‍🍳 Playing culinary artist in the kitchen, where recipes meet style.
+- 👩🏽‍🍳 Playing culinary artist in the kitchen, where recipes meet style.
 
 ### 📬 Hit Me Up!
 📧 Email: [contact@maria-ramirez.dev](mailto:contact@maria-ramirez.dev)
