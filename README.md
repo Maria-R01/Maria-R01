@@ -37,7 +37,7 @@ Crafting code that's not just functional but seriously impressive.
 👩🏽‍💻 Cooking up software that's basically digital awesomeness.
 
 ### 🎵 The Beat of My Code
-Fun fact: I groove to the rhythm of all music genres with a killer beat. When not in code mode, catch me:
+Fun fact: I jam to the rhythm of all music genres with a killer beat. When not in code mode, catch me:
 - 🎮 Leveling up in the gaming world.
 - 🎶 Jamming to tunes because even code needs a banging soundtrack!
 - 👩🏽‍🍳 Playing culinary artist in the kitchen, where recipes meet style.
